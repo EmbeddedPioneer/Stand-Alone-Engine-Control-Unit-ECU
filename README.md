@@ -5,7 +5,7 @@ Unlike traditional aftermarket ECUs, AutoCore keeps the costs accessible without
 
 With a growing community of users and continuous improvements in the original project Seeduino, AutoCore offers an advanced, cost-effective alternative to traditional ECUs, making it suitable for a wide range of automotive applications.
 ## Documentation
-The Speeduino online manual can be found at: https://wiki.speeduino.com
+The official Speeduino online manual can be found at: https://wiki.speeduino.com
 
  
 Of course, being open source, you are free to use the design files provided here to create your own hardware! 
