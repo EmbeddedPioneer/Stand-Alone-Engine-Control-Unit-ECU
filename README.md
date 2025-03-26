@@ -1,4 +1,4 @@
-## Overview
+## AutoCore
 AutoCore is a fully-featured and flexible Engine Control Unit (ECU) designed for advanced engine management applications. Building upon the foundation of the open-source Speeduino project, AutoCore enhances the hardware components to provide a more reliable, robust, and higher-performance ECU solution. With a focus on improving circuit protection, and increasing reliability, AutoCore delivers a premium solution for both hobbyists and professionals.
 
 Unlike traditional aftermarket ECUs, AutoCore keeps the costs accessible without compromising on features or quality, making it an excellent choice for automotive enthusiasts. The system includes both hardware and firmware components, all open-source and customizable to meet the specific needs of various engine management requirements.
