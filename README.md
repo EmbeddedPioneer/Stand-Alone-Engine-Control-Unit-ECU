@@ -1,7 +1,3 @@
-##### A low cost, DIY friendly Engine Management System (ECU) based on the Arduino framework
-</div>
-
-
 ## AutoCore
 AutoCore is a fully-featured and flexible Engine Control Unit (ECU) designed for advanced engine management applications. Building upon the foundation of the open-source Speeduino project, AutoCore enhances the hardware components to provide a more reliable, robust, and higher-performance ECU solution. With a focus on improving circuit protection, and increasing reliability, AutoCore delivers a premium solution for both hobbyists and professionals.
 
